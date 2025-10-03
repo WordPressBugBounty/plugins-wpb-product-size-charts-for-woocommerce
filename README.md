@@ -1,0 +1,1 @@
+# plugins-wpb-product-size-charts-for-woocommerce
